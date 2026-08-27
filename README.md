@@ -1,4 +1,4 @@
-<h1>Hello, I'm Neran (Neranjan Charitha) </h1>
+<h1>Hello, I'm Neranjan Charitha </h1>
 
 ## Contact
 
